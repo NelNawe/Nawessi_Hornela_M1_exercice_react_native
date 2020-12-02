@@ -1,6 +1,6 @@
 import React from 'react';
 import {View, StyleSheet, Text, SectionList, SafeAreaView, ScrollView } from 'react-native';
-import Square from "../components/Square";
+import Square from "../../components/Square";
 
   function Exo6() {
     return (
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
       justifyContent: 'space-between',
       textAlign: 'center',
       height: '1000',
-      widhth: '1000',
+      width: '1000',
 
     },
     scrollView: {

@@ -1,7 +1,7 @@
 
 import React from "react";
 import { View, StyleSheet } from "react-native";
-import ButtonCustomer from "../components/ButtonCustomer";
+import ButtonCustomer from "../../components/ButtonCustomer";
 
 function Exo10() {
     const alertTest = () => {

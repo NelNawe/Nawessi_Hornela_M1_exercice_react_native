@@ -1,6 +1,6 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
-import ButtonCustom from "../components/ButtonCustomer";
+import ButtonCustom from "../../components/ButtonCustomer";
 
 function Exo3() {
   const alertTest = () => {

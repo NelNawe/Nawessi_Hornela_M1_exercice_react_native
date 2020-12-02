@@ -1,7 +1,7 @@
 import React from "react";
 import {useState} from "react";
 import {View, TextInput, Text, StyleSheet,  } from "react-native";
- import ButtonCustom from "../components/ButtonCustomer";
+ import ButtonCustom from "../../components/ButtonCustomer";
 
 
 

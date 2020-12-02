@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Button, StyleSheet, TouchableOpacity, Text } from "react-native";
-import ButtonCustomer from "../components/ButtonCustomer";
+import ButtonCustomer from "../../components/ButtonCustomer";
 
 
 

@@ -1,6 +1,6 @@
-import React, { components} from 'react'
+import React, { Component} from 'react'
 import { StyleSheet, View } from 'react-native'
-import UserList from '../components/UserList'
+//import UserList from '../../components/UserList'
 
 const sampleData = [
   {
@@ -27,11 +27,11 @@ const sampleData = [
   },
 ]
 
-export default class App extends Component {
+export default class Exo9 extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <UserList data={sampleData} />
+        {/* <UserList data={sampleData} /> */}
       </View>
     )
   }

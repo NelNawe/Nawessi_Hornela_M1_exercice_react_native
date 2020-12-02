@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { StyleSheet, Text, TouchableOpacity, View, onClick } from "react-native";
-import ButtonCustomer from "../components/ButtonCustomer";
+import ButtonCustomer from "../../components/ButtonCustomer";
 function Exo4() {
         const [count, setCount] = useState(0);
         const onClick = () => setCount(count + 1);

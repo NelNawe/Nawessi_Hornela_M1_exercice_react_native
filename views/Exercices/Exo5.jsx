@@ -1,7 +1,7 @@
 import React from 'react'
 import {View, StyleSheet, Text} from 'react-native'
 import Constants from 'expo-constants';
-import Square from "../components/Square";
+import Square from "../../components/Square";
 
 function Exo5 () {
   return(

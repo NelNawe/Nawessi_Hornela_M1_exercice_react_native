@@ -21,7 +21,7 @@ const Item = ({ title }) => (
   </View>
 );
 
-const App = () => (
+const Exo8 = () => (
   <SafeAreaView style={styles.container}>
     <SectionList
       sections={DATA}
@@ -54,4 +54,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default App;
+export default Exo8;
