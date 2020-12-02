@@ -5,7 +5,8 @@ import Acceuil from "./views/Acceuil";
 
 export default function App() {
   return(
-    <View style={StyleSheet.container}>
+    <View style={styles.container}>
+      <Text>Hornela Nawessi</Text>
       <Acceuil/>
     </View>
   );
